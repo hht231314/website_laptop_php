@@ -189,8 +189,9 @@ Chưa đăng nhập sẽ không thể vào một số trang như giỏ hàng, y�
 <IMG SRC="Img/login.png" WIDTH="800" >
 
 > ### 3.	Một số Logo đã sử dụng trong trang Web
+  *Các Logo này do chính chủ làm ra. Logo nhà làm, đơn sơ đạm bạc mong bạn không reup.*
 ```PHP
-Logo trang Web: chữ HT được bao bọc bởi 1 đám mây.
+Logo trang Web: chữ HT được bao bọc bởi 1 đám mây.. không phải trái tim đâu..
 ```
 
 <IMG SRC="Img/HT_Cloud_Logo_1.png" WIDTH="500" >
