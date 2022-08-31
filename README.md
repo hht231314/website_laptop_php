@@ -88,9 +88,7 @@ Trang đăng ký
 <IMG SRC="Img/signupTop.png" WIDTH="800" >
 <IMG SRC="Img/signupBot.png" WIDTH="800" >
 
-```PHP
-Báo lỗi đăng ký:
-```
+***Báo lỗi đăng ký:***
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |-	Không được bỏ trống.                                                                                                                                       | 
 | -	Mật khẩu phải có cả chữ cái và số, không được có ký tự khác ngoài chữ cái và số, dài từ 6 đến 15 ký tự (dùng biểu thức chính quy).                         | 
