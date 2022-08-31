@@ -1,1 +1,132 @@
-# website_laptop_php
+1.  Công ngh? s? d?ng
+- PHP là chính.
+- JavaScript ?? b?t l?i Form.
+- Ajax ?? ki?m tra s? ?i?n tho?i trùng.
+- Database MySQL
+2.  Demo trang Web
+- Trang Index
+
+
+
+
+
+
+- Thông tin ? cu?i trang Web
+
+- Menu khi ch?a ??ng nh?p
+
+
+- Menu khi khách hàng ??ng nh?p
+
+- Menu khi Admin ??ng nh?p
+
+- Trang thông tin cá nhân
+
+
+
+
+
+
+
+
+
+- S?a thông tin cá nhân
+
+
+
+
+
+
+- Trang xem Laptop: phân chia theo brand.
+
+- Xem chi ti?t Laptop: có th? thêm vào gi? hàng ho?c thêm vào yêu thích.
+
+
+
+- N?u h?t hàng s? ?n nút thêm vào gi? và yêu thích.
+
+- Trang ??ng nh?p
+
+
+
+
+- Báo l?i ??ng nh?p
+
+- Trang ??ng ký
+
+
+
+
+
+- Báo l?i ??ng ký:
+o Không ???c b? tr?ng.
+o M?t kh?u ph?i có c? ch? cái và s?, không ???c có ký t? khác ngoài ch? cái và s?, dài t? 6 ??n 15 ký t? (dùng bi?u th?c chính quy).
+o M?t kh?u không kh?p.
+o Email không h?p l? (dùng bi?u th?c chính quy).
+o S? ?i?n tho?i ?ã t?n t?i. (dùng Ajax)
+o S? ?i?n tho?i không h?p l?!! Vui lòng nh?p ?úng s? ?i?n tho?i b?n ?ang dùng (dùng bi?u th?c chính quy).
+
+-  Gi? Hàng có th? thay ??i s? l??ng s?n ph?m, xóa và ??t hàng.
+
+
+
+
+
+
+- Trang yêu thích s?n ph?m có th? xóa ho?c thêm vào gi? hàng. Trong tr??ng h?p s?n ph?m ?ã có trong gi? hàng thì s? c?ng d?n s? l??ng lên.
+
+
+
+- Trang ??n Hàng cho phép xem nh?ng ??n hàng ?ã ??t và xem tr?ng thái ??n hàng. S?p x?p theo tr?ng thái ??n hàng.
+
+- Trang qu?n lý User cho phép thêm, s?a, xóa User. Ngoài ra có th? set “User” thành “Admin” và ng??c l?i.
+- Trang thêm User là trang ??ng ký. 
+
+- Trang qu?n lý Laptop cho phép thêm, s?a, xóa Laptop. Ngoài ra còn có s?a tr?ng thái Laptop. Laptop ? tr?ng thái “h?t hàng” s? n?m ? cu?i cùng.
+- Trang này ???c s?p x?p theo brand.
+
+- Trang qu?n lý ??n hàng ch? có tính n?ng c?p nh?t tr?ng thái ??n hàng.
+
+- C?p nh?t tr?ng thái ??n hàng, ??n hàng ???c s?p x?p theo tr?ng thái ??n hàng.
+
+- Trang profile c?a Admin không có tính n?ng xóa tài kho?n.
+
+
+- Thêm Laptop
+
+- Báo l?i thêm Laptop không cho b? tr?ng.
+
+
+
+
+- Chuy?n ti?p sang thêm hình ?nh mô t? Laptop ?ó.
+
+- Báo l?i thêm hình ?nh không ???c b? tr?ng.
+
+
+
+- H?n ch? không cho ng??i dùng truy c?p các trang dành cho Admin. Hi?n thông báo và chuy?n v? trang Index.
+
+- Ch?a ??ng nh?p s? không th? vào m?t s? trang nh? gi? hàng, yêu thích, ??n hàng, các trang dành cho Admin. C? th? là s? chuy?n h??ng v? trang ??ng nh?p.
+
+
+
+
+
+
+
+3. M?t s? Logo ?ã s? d?ng trong trang Web
+- Logo trang Web: ch? HT ???c bao b?c b?i 1 ?ám mây.
+
+
+- Logo Sign Up
+
+
+
+
+
+- Logo Login
+- Logo Profile
+
+
+
