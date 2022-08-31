@@ -105,6 +105,15 @@
                                     </form>
                                 </div></div>
                             ';
+                        }else {
+                            echo '
+                                <div class="btn" style="display: none;">
+                                    <form>
+                                        <a href="#"><input class="addcart-btn" type="button" value="Thêm Vào Giỏ Hàng" /></a>
+                                        <a href="#"><input class="wishlist-btn" type="button" value="Thêm Vào Yêu Thích" /></a>
+                                    </form>
+                                </div></div>
+                            ';
                         }    
                 }
             }
