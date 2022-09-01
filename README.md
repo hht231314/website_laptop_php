@@ -1,9 +1,8 @@
 > ## GIỚI THIỆU TRANG WEB PHP LAPTOP
 ___________________________________________________________________________________________________________________
-### Xem Video Demo ở Google Drive
-<sup> Xem Video Demo: [tại đây](https://drive.google.com/drive/folders/1OI1IZB4d10008jSEun3tmPu-1AokW9oz?usp=sharing) </sup>
-<br><sup> Các video Demo lẻ: [tại đây](https://drive.google.com/drive/folders/1n5aYw11h9ae0ehNC5GEULy9HNfPf4IoL?usp=sharing) </sup>
-<br><sup> Demo đầy đủ (đã tua nhanh): [tại đây](https://drive.google.com/file/d/19rxZmOdPvkFDjgTpb1HQrlUSjnw3u0On/view?usp=sharing) </sup>
+ **Demo đầy đủ (đã tua nhanh): [tại đây](https://drive.google.com/file/d/19rxZmOdPvkFDjgTpb1HQrlUSjnw3u0On/view?usp=sharing) 
+<br>Các video Demo lẻ: [tại đây](https://drive.google.com/drive/folders/1n5aYw11h9ae0ehNC5GEULy9HNfPf4IoL?usp=sharing)
+<br>Folder Video Demo: [tại đây](https://drive.google.com/drive/folders/1OI1IZB4d10008jSEun3tmPu-1AokW9oz?usp=sharing)**
 ___________________________________________________________________________________________________________________
 > ### 1. Công nghệ sử dụng
 - PHP là chính.
